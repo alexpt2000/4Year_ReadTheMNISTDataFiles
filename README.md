@@ -1,4 +1,4 @@
-# 4YEAR_RESEARCH_METHODS_IN_COMPUTING_AND_IT
+# EMERGING TECHNOLOGIES
 
 
 ## Problem set: Read the MNIST data files
