@@ -71,4 +71,6 @@ img = pil.fromarray(img)
 img = img.convert('RGB')
 
 img.show()
-img.save("image/" + value + "2.png")
+img.save("images/" + value + ".png")
+
+
