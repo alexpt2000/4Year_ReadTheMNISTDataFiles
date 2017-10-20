@@ -1,5 +1,6 @@
 # Ignore data files
 data/
+data1/
 
 # Ignore image files
 images/
