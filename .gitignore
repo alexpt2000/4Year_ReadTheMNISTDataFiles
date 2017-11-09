@@ -1,9 +1,9 @@
 # Ignore data files
-data/
-data1/
+
+
 
 # Ignore image files
-images/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
