@@ -56,3 +56,11 @@ python 1_Read the data files.py
 
 
 
+## Author
+
+### Alexander Souza
+- G00317835@gmit.ie
+- alexpt2000@gmail.com
+- github.com/alexpt2000gmit
+- github.com/alexpt2000
+- www.linkedin.com/in/alexander-souza-3a841539/
